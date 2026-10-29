@@ -275,6 +275,10 @@ Toonflow 采用 MIT 开源许可，可自行部署。第三方模型服务的 AP
 
 ## 4. 🚀 下载并安装
 
+### 一键部署
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Toonflow/)
+
 ### 4.1 客户端安装
 
 | 操作系统 | GitHub                                                       |
